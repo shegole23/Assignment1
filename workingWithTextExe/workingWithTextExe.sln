@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workingWithTextExe", "workingWithTextExe\workingWithTextExe.csproj", "{91B21ABF-07A7-4589-B732-F520DB6F7455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B21ABF-07A7-4589-B732-F520DB6F7455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B21ABF-07A7-4589-B732-F520DB6F7455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B21ABF-07A7-4589-B732-F520DB6F7455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B21ABF-07A7-4589-B732-F520DB6F7455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2FA6884-B504-4317-9496-33F5CD9C0C24}
+	EndGlobalSection
+EndGlobal

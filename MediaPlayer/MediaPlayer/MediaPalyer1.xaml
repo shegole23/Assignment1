@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="MediaPlayer.MediaPalyer1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MediaPlayer"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <CommandBar Margin="41,608,-41,0">
+            <CommandBar.Content>
+                <Grid/>
+            </CommandBar.Content>
+            <AppBarButton Icon="Back"  
+                          Label="Back"
+                          Click="AppBarButton_Click"/>
+            <AppBarButton Icon="Stop" 
+                          Label="Stop"
+                          Click="AppBarButton_Click"/>
+            <AppBarButton Icon="Play"
+                          Label="Play"
+                          Click="AppBarButton_Click"/>
+            <AppBarButton Icon="Forward"
+                          Label="FOrward"
+                          Click="AppBarButton_Click"/>
+        </CommandBar>
+    </Grid>
+</Page>

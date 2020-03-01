@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itrationLoop", "itrationLoop\itrationLoop.csproj", "{BF88256A-F03D-4377-9EB8-0CBEA7864A0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF88256A-F03D-4377-9EB8-0CBEA7864A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF88256A-F03D-4377-9EB8-0CBEA7864A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF88256A-F03D-4377-9EB8-0CBEA7864A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF88256A-F03D-4377-9EB8-0CBEA7864A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7D248D1-D07A-4C6C-BFF1-709B87A002EB}
+	EndGlobalSection
+EndGlobal
